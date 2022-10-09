@@ -33,7 +33,7 @@ Here we are going to work with an open csv-dataset which consist on RNA sequence
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://images.unsplash.com/photo-1643780668909-580822430155?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80" alt="Logo" width="350" height="350">
+    <img src="https://images.unsplash.com/photo-1643780668909-580822430155?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80" alt="Logo" width="700" height="350">
   </a>
 
 <h3 align="center">project_title</h3>
