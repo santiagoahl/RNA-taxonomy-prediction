@@ -1,5 +1,3 @@
-# RNA-virus-prediction
-Here we are going to work with an open csv-dataset which consist on RNA sequences with several viruses. Using python we expect we'll be able to create an AI model that classifies between normal and anormal RNA sequences. Our main idea is to implement a hidden Markov chain model.
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -32,23 +30,23 @@ Here we are going to work with an open csv-dataset which consist on RNA sequence
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/github_santiagoahl/repo_name">
     <img src="https://images.unsplash.com/photo-1643780668909-580822430155?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80" alt="Logo" width="700" height="350">
   </a>
 
 <h3 align="center">RNA taxonomy prediction using Markov Chains</h3>
 
   <p align="center">
-    project_description
+    Here we are going to work with an open csv-dataset which consist on RNA sequences with several viruses. Using python we expect we'll be able to create an AI model that classifies between normal and anormal RNA sequences. Our main idea is to implement a hidden Markov chain model.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_santiagoahl/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_santiagoahl/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/github_santiagoahl/repo_name/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_santiagoahl/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
@@ -86,8 +84,6 @@ Here we are going to work with an open csv-dataset which consist on RNA sequence
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +193,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@@sahumadaloz](https://twitter.com/@sahumadaloz) - sahumadal@unal.edu.co@.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
@@ -229,7 +225,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/santiago-ahumada-lozano
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
