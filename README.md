@@ -73,7 +73,7 @@
 
 * We implemented a **Random Forest model** whose train data is taken from the new dataset.
 ![screenshot](https://1.bp.blogspot.com/-Ax59WK4DE8w/YK6o9bt_9jI/AAAAAAAAEQA/9KbBf9cdL6kOFkJnU39aUn4m8ydThPenwCLcBGAsYHQ/s0/Random%2BForest%2B03.gif)
-* We archieved a 81.2% score.
+* We archieved a **81.2%** score.
 * The confusion matrix is the following
 ![screenshot](https://github.com/santiagoahl/rna-taxonomy-prediction/blob/main/results/confussion_matrix.png)
 * The learning curve is the following
