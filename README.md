@@ -24,27 +24,27 @@
 
 ## Key Features
 
-This machine learning model takes a RNA sequence and predicts what class does it belong to. Classes are taken as taxonomies. The avaible taxonomies are the following 19:
+* This machine learning model takes a RNA sequence and predicts what class does it belong to. Classes are taken as taxonomies. The avaible taxonomies are the following 19:
 
-- Orthomyxoviridae
-- Rhabdoviridae
-- Arteriviridae
-- Coronaviridae
-- Reoviridae
-- Caliciviridae
-- Phenuiviridae
-- Hantaviridae
-- Picornaviridae
-- Betaflexiviridae
-- Astroviridae
-- Closteroviridae
-- Flaviviridae
-- Potyviridae
-- Retroviridae
-- Togaviridae
-- Paramyxoviridae
-- Hepeviridae
-- Pneumoviridae
+  - Orthomyxoviridae
+  - Rhabdoviridae
+  - Arteriviridae
+  - Coronaviridae
+  - Reoviridae
+  - Caliciviridae
+  - Phenuiviridae
+  - Hantaviridae
+  - Picornaviridae
+  - Betaflexiviridae
+  - Astroviridae
+  - Closteroviridae
+  - Flaviviridae
+  - Potyviridae
+  - Retroviridae
+  - Togaviridae
+  - Paramyxoviridae
+  - Hepeviridae
+  - Pneumoviridae
 
 * Before Prediction the model computes a markov chain whose states are the 64 writeable codons with the nucleoids **A, C, G, T** an then computes metrics over its adjacent associated matrix: 8 of them are matricial norms and the missing 10 parameters are the first eigenvalues complex norms ascending ordered. Namely:
   - `Frobenius Norm`
