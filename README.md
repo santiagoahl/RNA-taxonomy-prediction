@@ -2,7 +2,7 @@
   <br>
   <a href="https://www.rna.org.co/"><img src="https://images.unsplash.com/photo-1643780668909-580822430155?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80" alt="WHR" width="400"></a>
   <br>
-  RNA Virus Detecion
+  RNA Taxonomy Classification
   <br>
 </h1>
 
@@ -71,7 +71,8 @@
 
  
 
-* Random Forest model whose train data is taken from the new dataset.
+* We implemented a **Random Forest model** whose train data is taken from the new dataset.
+![screenshot](https://1.bp.blogspot.com/-Ax59WK4DE8w/YK6o9bt_9jI/AAAAAAAAEQA/9KbBf9cdL6kOFkJnU39aUn4m8ydThPenwCLcBGAsYHQ/s0/Random%2BForest%2B03.gif)
 * We archieved a 81.2% score.
 * The confusion matrix is the following
 ![screenshot](https://github.com/santiagoahl/rna-taxonomy-prediction/blob/main/results/confussion_matrix.png)
@@ -94,7 +95,7 @@ $ cd rna-taxonomy-prediction
 $ jupyter-notebook
 
 # Run the Libraries & Modules cell
-# Run the Model Import 
+# Run the Model Import cell
 ```
 
 ## Credits
