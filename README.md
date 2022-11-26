@@ -67,12 +67,17 @@ This machine learning model takes a RNA sequence and predicts what class does it
   - `eig 10` 
   
  With this new metrics, we built a new dataset. and we found this scatter plot:
+ ![screenshot](https://github.com/santiagoahl/rna-taxonomy-prediction/blob/main/results/scatter.png)
+
  
 
 * Random Forest model whose train data is taken from the new dataset.
 * We archieved a 81.2% score.
 * The confusion matrix is the following
+![screenshot](https://github.com/santiagoahl/rna-taxonomy-prediction/blob/main/results/confussion_matrix.png)
 * The learning curve is the following
+![screenshot](https://github.com/santiagoahl/rna-taxonomy-prediction/blob/main/results/learning_curves.png)
+
 
 ## How To Use
 
