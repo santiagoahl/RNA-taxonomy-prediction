@@ -46,7 +46,7 @@
   - Hepeviridae
   - Pneumoviridae
 
-* Before Prediction the model computes a markov chain whose states are the 64 writeable codons with the nucleoids **A, C, G, T** an then computes metrics over its adjacent associated matrix: 8 of them are matricial norms and the missing 10 parameters are the first eigenvalues complex norms ascending ordered. Namely:
+* Before Prediction the model computes a markov chain whose states are the 64 writeable codons with the nucleoids **A, C, G, T** and then computes metrics over its adjacent associated matrix: 8 of them are matricial norms and the missing 10 parameters are the first eigenvalues complex norms ascending ordered. Namely:
   - `Frobenius Norm`
   - `Nuclear Norm`
   - `Infty Norm`
