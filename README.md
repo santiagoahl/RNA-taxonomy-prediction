@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Random Forest Multiclass classifier built in scikit-learn using Markov Chains. 
+<h4 align="center">An XGBoost Multiclass classifier built in scikit-learn using Markov Chains. 
 </h4>
 
 <p align="center">
