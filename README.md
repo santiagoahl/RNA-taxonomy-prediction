@@ -67,7 +67,7 @@
   - `eig 10` 
   
  With this new metrics, we built a new dataset. and we found this scatter plot:
- ![screenshot](https://github.com/santiagoahl/rna-taxonomy-prediction/blob/main/results/scatter.png)
+ ![screenshot](https://github.com/santiagoahl/RNA-taxonomy-prediction/blob/main/Results/images/scatter.png?raw=true)
 
  
 
@@ -76,9 +76,9 @@
 * We archieved a **97.1%** of val score.
 * The confusion matrix is the following
 
-![screenshot](https://github.com/santiagoahl/RNA-taxonomy-prediction/blob/main/results/confusion_matrix.png)
+![screenshot](https://github.com/santiagoahl/RNA-taxonomy-prediction/blob/main/Results/images/confussion_matrix.png?raw=true)
 * The learning curve is the following
-![screenshot](https://github.com/santiagoahl/rna-taxonomy-prediction/blob/main/results/learning_curves.png)
+![screenshot](https://github.com/santiagoahl/RNA-taxonomy-prediction/blob/main/Results/images/XGB_learning_curves.png?raw=true)
 
 
 ## How To Use
