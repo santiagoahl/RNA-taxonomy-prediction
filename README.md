@@ -66,7 +66,7 @@
   - `eig 9` 
   - `eig 10` 
   
- With this new metrics, we built a new dataset. and we found this scatter plot:
+ With these new metrics, we built a new dataset. and we found this scatter plot:
  ![screenshot](https://github.com/santiagoahl/RNA-taxonomy-prediction/blob/main/Results/images/scatter.png?raw=true)
 
  
